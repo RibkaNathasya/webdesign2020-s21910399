@@ -1,8 +1,58 @@
-p{
-    color: #95e1d3;
-    font-size: 20px;
+p
+{
+    color: blueviolet;
 }
-h1{
-    color: darkviolet;
-    font-size: 50px;
+
+p.error{
+    color: burlywood;
+}
+
+p.success.feedback
+{
+    color: cornflowerblue;
+    border:5px sienna;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: yellow;
+} */
+
+#top-container{
+    background-color: lightgreen;
+}
+
+#bottom-container{
+    background-color: tan;
+}
+
+div .error{
+    color: tomato;
+}
+
+a[href]{
+    font-size: 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: thistle;
+}
+
+a[href*="google"]{
+    background-color: wheat;
+}
+
+a[href$="instagram"]{
+    background-color: yellow;
+}
+
+h1:css{
+    color: aqua;
+    background-color: black;
+}
+
+p::selection{
+    background-color: cadetblue;
+    color: crimson;
+}
+
+a::before{
+    content: "Link -";
 }
