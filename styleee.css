@@ -1,0 +1,24 @@
+.grinningface{
+    display: block;
+    background-color: lightskyblue;
+    padding: 20px;
+    border: 10px solid red;
+    width: 100px;
+}
+.beamingface{
+    display: block;
+    background-color: lightskyblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin-left: 160px;
+    width: 100px;
+}
+.winkingface{
+    display: block;
+    background-color: lightskyblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin-left: 320px;
+    width: 100px;
+}
+
