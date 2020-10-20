@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Krona One', sans-serif;  
+    font-size: 4rem;
+    width: 25%;
+    margin: 0 auto;
+}
+h2{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 48px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+ p{
+    font-family: "Lucida Bright",Georgia,serif; 
+    font-size: 1em;
+    text-align: justify;
+}
